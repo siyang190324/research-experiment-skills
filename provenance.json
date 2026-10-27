@@ -1,0 +1,36 @@
+{
+  "upstream_repository": "https://github.com/mattpocock/skills",
+  "snapshot_date": "2026-10-27",
+  "timezone": "Asia/Shanghai",
+  "skills_count": 18,
+  "skills": [
+    "code-review",
+    "codebase-design",
+    "diagnosing-bugs",
+    "domain-modeling",
+    "grill-me",
+    "grill-with-docs",
+    "grilling",
+    "handoff",
+    "improve-codebase-architecture",
+    "prototype",
+    "research",
+    "retro",
+    "tdd",
+    "teach",
+    "to-questionnaire",
+    "wait-what",
+    "writing-for-agents",
+    "writing-fragments"
+  ],
+  "source": "current locally maintained skills snapshot",
+  "original_import_commit": null,
+  "license_source_url": "https://raw.githubusercontent.com/mattpocock/skills/5beb35b040e3de97e54fa9e386d7e42d15c295c2/LICENSE",
+  "license_reference_commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+  "license_commit_is_not_the_skill_snapshot_commit": true,
+  "locally_modified_skills": [
+    "code-review",
+    "handoff",
+    "writing-fragments"
+  ]
+}
